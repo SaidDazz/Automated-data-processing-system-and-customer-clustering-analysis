@@ -1,0 +1,7 @@
+# Add any Python package dependencies here
+pandas
+kafka-python
+openpyxl
+six
+pymongo
+
