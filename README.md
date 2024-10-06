@@ -134,10 +134,10 @@ Key outcomes of the analysis include:
 
 Example visualizations:
 
-### 1. DBSCAN Clustering
-![DBSCAN Clustering](path/to/dbscan_clustering.png)
+### 1. K-means Clustering
+![K-means Clustering](path/to/dbscan_clustering.png)
 
-### 2. Country Distribution
+### 2. DBSCAN Clustering
 ![Customer Distribution by Country](path/to/country_pie_chart.png)
 
 ## Conclusion
