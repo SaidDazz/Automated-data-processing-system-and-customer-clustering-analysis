@@ -123,7 +123,7 @@ The project follows an automated data pipeline architecture that integrates:
 5. **Customer clustering** using K-means and DBSCAN algorithms.
 6. **Interactive visualization** of the results.
 
-![Architecture](images/arcg.png)
+![Architecture](images/Architecture.png)
 
 ## Results and Visualizations
 
