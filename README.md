@@ -13,6 +13,7 @@
 
 This project aims to implement an automated system that:
 - **Extracts** data from Excel files related to stock movements and deliveries.
+- **Processing** the data and **generate** Ecxel files from the processed data
 - **Stores** this data in a relational database (**PostgreSQL**) for stock movements and a **NoSQL (MongoDB)** database for deliveries.
 - **Analyzes** and segments customer data using clustering algorithms such as **K-means** and **DBSCAN**.
 - **Visualizes** the results through interactive graphs.
