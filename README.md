@@ -98,20 +98,6 @@ The project leverages the following technologies:
 
 3. Enable and monitor the DAG corresponding to the stock and delivery management pipeline.
 
-### Running the Clustering Script
-
-1. Run the analysis script to apply customer clustering:
-    ```bash
-    docker exec -it airflow_worker python clustering.py
-    ```
-
-### Generating Visualizations
-
-1. Visualize the generated graphs after processing:
-    ```bash
-    docker exec -it airflow_worker python visualize_data.py
-    ```
-
 ## Pipeline Architecture
 
 The project follows an automated data pipeline architecture that integrates:
